@@ -75,4 +75,6 @@ Please do!
 As I use LLMs more, I will be updating this repository. There are certain features I want to build.
 * LLM testing on local hardware features. These are speed of token generation.
 * Cloud GPU implementation.
-* Multiple hardware testing and report generation (CSV file type). Data is fun. Understanding the speed of various LLMs on you local or cloud hardware will be beneficial for project implementation. 
+* Multiple hardware testing and report generation (CSV file type). Data is fun. Understanding the speed of various LLMs on you local or cloud hardware will be beneficial for project implementation.
+
+How do you contribute? Check out the following link: https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project
