@@ -76,5 +76,6 @@ As I use LLMs more, I will be updating this repository. There are certain featur
 * LLM testing on local hardware features. These are speed of token generation.
 * Cloud GPU implementation.
 * Multiple hardware testing and report generation (CSV file type). Data is fun. Understanding the speed of various LLMs on you local or cloud hardware will be beneficial for project implementation.
+* Once I have these features implemented, won't it be amazing to have a TUI? Look at Textualize if you want to give it a go. https://www.textualize.io
 
 How do you contribute? Check out the following link: https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project
