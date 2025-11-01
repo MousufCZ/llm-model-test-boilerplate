@@ -69,3 +69,10 @@ If you are installing new libraries, please use the following command line:
 Update requirements.txt: pip freeze > all_reqs.txt
 
 This will update the requirements.txt file with the name of libraries installed.
+
+## Contribute to this project?
+Please do!
+As I use LLMs more, I will be updating this repository. There are certain features I want to build.
+* LLM testing on local hardware features. These are speed of token generation.
+* Cloud GPU implementation.
+* Multiple hardware testing and report generation (CSV file type). Data is fun. Understanding the speed of various LLMs on you local or cloud hardware will be beneficial for project implementation. 
